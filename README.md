@@ -232,13 +232,7 @@ heart-disease-prediction/
 
 ---
 
-## ⚖️ License
 
-[![MIT](https://img.shields.io/badge/MIT-License-22c55e?style=for-the-badge)]()
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
 
 <div align="center">
 
